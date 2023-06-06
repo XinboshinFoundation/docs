@@ -1,1 +1,1 @@
-# docs
+# Сайт документации Xinboshin Foundation
